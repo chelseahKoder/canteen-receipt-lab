@@ -22,7 +22,7 @@
 first_name = input()
 last_name = input()
 item = input()
-qty = int(input())
+qty = input()
 student_id = input()
 
 print(f"Costumer: {first_name} {last_name}".strip().title())
